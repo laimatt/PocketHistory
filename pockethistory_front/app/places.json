@@ -1,0 +1,576 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8068214,
+        "lng": -73.9606063
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80808048029149,
+          "lng": -73.95922516970849
+        },
+        "southwest": {
+          "lat": 40.80538251970849,
+          "lng": -73.9619231302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia Law School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116515732993893087056\">Ali Sadighian</a>"
+        ],
+        "photo_reference": "AVzFdbkxkkMUxs11PNKniZJUVH7CXChHQGWIgZYu9KDGkacomZzbNwvQDjpiu9DKskcyR6N1v_flVuZVdZYzJwGAYh6P7kpoAdHp8pAcXx7Fp6l9oh2DTc9-6M8tY2odJvSEELwns3U__6JrD_PTCZtwgyHYpiSqGwUUwvLOU-uSqj3PQ5-T",
+        "width": 1944
+      }
+    ],
+    "place_id": "ChIJd1nqBj72wokRkm4dqnFmKik",
+    "plus_code": {
+      "compound_code": "R24Q+PQ New York, NY, USA",
+      "global_code": "87G8R24Q+PQ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJd1nqBj72wokRkm4dqnFmKik",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108,
+    "vicinity": "435 West 116th Street, New York",
+    "short_description": "Elite law school in New York City.",
+    "long_description": "Located at 435 West 116th Street in New York, Columbia Law School is a world-renowned institution that offers a transformative legal education, combining academic excellence with unparalleled opportunities for professional growth. With a rich history dating back to 1858, Columbia Law School has produced some of the most influential leaders in law, politics, and business, and its faculty includes some of the most distinguished scholars in the field. By attending Columbia Law School, students can tap into a vast network of alumni and take advantage of the school's prime location in the heart of Manhattan, providing unparalleled access to top law firms, courts, and government institutions.",
+    "image_url": "http://127.0.0.1:8000/images/Columbia Law School.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80785209999999,
+        "lng": -73.9609459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80909918029149,
+          "lng": -73.9593537197085
+        },
+        "southwest": {
+          "lat": 40.80640121970849,
+          "lng": -73.96205168029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St. Paul's Chapel",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112046117871443935066\">Edward Chen</a>"
+        ],
+        "photo_reference": "AVzFdblZHG5r8SlUXO1lwMUrYjLJLA1JOmm1mPoQ3NF1ni3K0KrAWLydliEaAk6w7B7FxPVKBEQgxeaLqabpf501Gf0qM7gBdrFHngxL6mrFuTAugKFbQ1maz5Jt2KVt4LAHFdALlzwWt1FEKFwA9u3BhwI4l6IYgG2hXMZESF9gpHrv_9zW",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJAclQPz72wokRsEnh3zDG1Bw",
+    "plus_code": {
+      "compound_code": "R25Q+4J New York, NY, USA",
+      "global_code": "87G8R25Q+4J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJAclQPz72wokRsEnh3zDG1Bw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "1160 Amsterdam Avenue, New York",
+    "short_description": "Historic NYC chapel with stunning stained glass.",
+    "long_description": "St. Paul's Chapel, located at 1160 Amsterdam Avenue in New York, is a historic Episcopal chapel that has been a tranquil oasis in the heart of Manhattan since 1807. This stunning example of Greek Revival architecture boasts a beautiful interior with elegant stained-glass windows, intricate carvings, and a peaceful atmosphere that invites reflection and contemplation. As a significant landmark and a witness to the city's history, St. Paul's Chapel offers a unique and enriching experience for visitors, making it a must-visit destination in New York City.",
+    "image_url": "http://127.0.0.1:8000/images/St. Paul's Chapel.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077241,
+        "lng": -73.9596123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8091605802915,
+          "lng": -73.9582356697085
+        },
+        "southwest": {
+          "lat": 40.80646261970851,
+          "lng": -73.9609336302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "School of International and Public Affairs",
+    "photos": [
+      {
+        "height": 1891,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107025321911597274986\">Gloria Oh</a>"
+        ],
+        "photo_reference": "AVzFdbnkQ8Buc9OUuM-x8SGtgcCfPe2sViH6XfAwt0pfrVgIyn6W3_Al0hZFKKdBf8z8NwygPnhQKfASQAxvDQIuW8h29tbSXAEaXsDiW1_LhkVUYejEo-7Fal6gjmqi2iHT6G0xgznlBeZuBORRHWF3gH8ai2eEpf3QZCcUTjYJokNfPLKm",
+        "width": 1890
+      }
+    ],
+    "place_id": "ChIJrXUAJz72wokRzQgprNpzMKA",
+    "plus_code": {
+      "compound_code": "R25R+35 New York, NY, USA",
+      "global_code": "87G8R25R+35"
+    },
+    "rating": 4.8,
+    "reference": "ChIJrXUAJz72wokRzQgprNpzMKA",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "420 West 118th Street, New York",
+    "short_description": "Global leadership training hub.",
+    "long_description": "The School of International and Public Affairs (SIPA) at Columbia University, located at 420 West 118th Street in New York, is a premier institution for interdisciplinary studies in international relations, public policy, and administration. With a diverse range of academic programs and research centers, SIPA offers students a unique opportunity to engage with global challenges and develop innovative solutions. By studying at SIPA, students can join a community of leaders and scholars who are shaping the world's most pressing issues, from climate change to economic development and human rights.",
+    "image_url": "http://127.0.0.1:8000/images/School of International and Public Affairs.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077432,
+        "lng": -73.95972060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80917793029149,
+          "lng": -73.9583081197085
+        },
+        "southwest": {
+          "lat": 40.80647996970849,
+          "lng": -73.96100608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Lehman Social Sciences Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106325404903703050540\">Eugene Baik</a>"
+        ],
+        "photo_reference": "AVzFdbl08y6hn0tvc1K3HYnUF9APYd0npQLaF5KjsPQ3-FEemV39bmWRqgub-_oA4Ta8TwXsFjRoIGZctLK-IvQBNIdxvLPo8Iz5YI1dWQRDHDqYsybvDDGOn3IKGIJs0SW2Yk8kH8rSssKF9cR1qsg5w_uwyDODBqgztxIbZ6FHv-dcjK4R",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrXUAJz72wokRDWxErC408iU",
+    "plus_code": {
+      "compound_code": "R25R+34 New York, NY, USA",
+      "global_code": "87G8R25R+34"
+    },
+    "rating": 4.4,
+    "reference": "ChIJrXUAJz72wokRDWxErC408iU",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "420 West 118th Street #328, New York",
+    "short_description": "Explore vast academic resources here.",
+    "long_description": "The Lehman Social Sciences Library, situated at 420 West 118th Street in New York, is a vibrant hub of academic exploration and discovery. This state-of-the-art library offers an extensive collection of resources and materials in the social sciences, providing users with a unique opportunity to delve into a wide range of subjects, from economics to sociology. By visiting the Lehman Social Sciences Library, users can unlock a world of knowledge and insight, fostering intellectual growth and curiosity in a dynamic and supportive environment.",
+    "image_url": "http://127.0.0.1:8000/images/Lehman Social Sciences Library.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8067179,
+        "lng": -73.9592775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8080107302915,
+          "lng": -73.9577943697085
+        },
+        "southwest": {
+          "lat": 40.8053127697085,
+          "lng": -73.96049233029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Faculty House",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115610524523521097991\">Julio Rezende</a>"
+        ],
+        "photo_reference": "AVzFdbm5ZRgXbZxFEMWGH5QchHLyQYnciSb80l2z4gDRbb-v7KB7YZqxDe-wbgZwEZevaWKD9zRnz5CDWSJD3gYVlACmwd5_z_AQkGsctRQRDV5f0HGJPSwXq7gl36KCJVd4BVJGWyLOraXKJro4EQvM8xiSzYeJMaXLq2L7HYHkN6cG_ksf",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgyYU-hX2wokRaIL9nDXj2UA",
+    "plus_code": {
+      "compound_code": "R24R+M7 New York, NY, USA",
+      "global_code": "87G8R24R+M7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJgyYU-hX2wokRaIL9nDXj2UA",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "64 Morningside Drive, New York",
+    "short_description": "Historic Columbia University event space.",
+    "long_description": "Located at 64 Morningside Drive in New York, Faculty House is a historic landmark that serves as a vibrant gathering place for Columbia University's academic community. This stunning venue offers a unique blend of elegance and sophistication, making it an ideal spot for special events, meetings, and dining experiences. With its rich history, beautiful architecture, and breathtaking views of Morningside Park, Faculty House is a must-visit destination that combines intellectual curiosity with refined hospitality.",
+    "image_url": "http://127.0.0.1:8000/images/Faculty House.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80752270000001,
+        "lng": -73.9635079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8089513302915,
+          "lng": -73.9623959697085
+        },
+        "southwest": {
+          "lat": 40.8062533697085,
+          "lng": -73.96509393029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia University Graduate School of Journalism",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102238406716223879140\">T. Arimoto</a>"
+        ],
+        "photo_reference": "AVzFdbnDgGAByAj85G5gPd4v9ugj8NZy4R40Qaj1HsP7AQU89koxe1vwP-9f08FljGsxJdA4lvjlDVj5Yuodoh8Hi2GYO7E6gAqdJEvO7meLbNuqMYnA5absHy1PI3U7TlIUxucBiJ7IYz6dyEO9te7o7JetdfeQhEOlT-7VBKiikPK3P3QM",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJM-49lD72wokREgI0Ad-PuKA",
+    "plus_code": {
+      "compound_code": "R25P+2H New York, NY, USA",
+      "global_code": "87G8R25P+2H"
+    },
+    "rating": 4.3,
+    "reference": "ChIJM-49lD72wokREgI0Ad-PuKA",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Pulitzer Hall, 2950 Broadway, New York",
+    "short_description": "World-renowned journalism school in NYC.",
+    "long_description": "Located in the heart of New York City, Columbia University Graduate School of Journalism is a prestigious institution that offers students a unique opportunity to hone their journalistic skills in one of the world's most vibrant media capitals. With its rich history and esteemed faculty, the school has produced some of the most influential journalists of our time, and its Pulitzer Hall location at 2950 Broadway serves as a hub for innovative storytelling and cutting-edge journalism. By attending Columbia University Graduate School of Journalism, students can gain the knowledge, skills, and network to succeed in a rapidly evolving media landscape and make a lasting impact in the world of journalism.",
+    "image_url": "http://127.0.0.1:8000/images/Columbia University Graduate School of Journalism.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8075355,
+        "lng": -73.9625727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.81273039999999,
+          "lng": -73.95871034999999
+        },
+        "southwest": {
+          "lat": 40.803606,
+          "lng": -73.96566335
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia University",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107525978499005376518\">Andrew Navia</a>"
+        ],
+        "photo_reference": "AVzFdbl6BgZFfG2solSd2bDCJZuHUFNlvmRdFtbpQ8dXoWL7DiCypGOB6LPeY_s_Z93PZkfTaiwfuRy7hoQhkk79wGPjsNnjCErnA83Ho6D0RDF2yp34-JTkOUKxhhS1JFnTaXh4OM8-iegULYeZR8OgkLMxxHN14Sw6Suhjwy9aEKjz-z_F",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJyQ3Tlj72wokRUCflR_kzeVc",
+    "plus_code": {
+      "compound_code": "R25P+2X New York, NY, USA",
+      "global_code": "87G8R25P+2X"
+    },
+    "rating": 4.6,
+    "reference": "ChIJyQ3Tlj72wokRUCflR_kzeVc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2457,
+    "vicinity": "116th and Broadway, New York",
+    "short_description": "Ivy League education in NYC's heart.",
+    "long_description": "Located at the iconic intersection of 116th and Broadway in New York City, Columbia University is a world-renowned institution that offers a unique blend of academic excellence, innovative research, and unparalleled access to the city's cultural and professional opportunities. With a rich history dating back to 1754, Columbia is one of the oldest and most prestigious universities in the United States, boasting a long list of distinguished alumni and faculty who have shaped the world in countless ways. From its stunning campus to its cutting-edge programs, Columbia University is the ultimate destination for students seeking a transformative educational experience in the heart of the city that never sleeps.",
+    "image_url": "http://127.0.0.1:8000/images/Columbia University.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80636260000001,
+        "lng": -73.9631912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80764703029151,
+          "lng": -73.96199696970848
+        },
+        "southwest": {
+          "lat": 40.80494906970851,
+          "lng": -73.9646949302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Butler Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3907,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110179777159398655887\">Jayne Lim</a>"
+        ],
+        "photo_reference": "AVzFdbkWJjVZRVXhxNlH16_jGcVzOoHv5w3DweR0UVF9E_O3CtsNXfe-ikIYLaR15yKEbuA-jl_GdaYpnSZcv_qESwgCUzXiLJPDX3Lya-dxHpsRVdqSrh9WD_LIrGCGV7XtoeVDkyjs7weirEjAj4hcAT5MiU2zvYk15iR-uFBzVJ2QdPhz",
+        "width": 2930
+      }
+    ],
+    "place_id": "ChIJVRPaMTz2wokRm4LsaYrbHfE",
+    "plus_code": {
+      "compound_code": "R24P+GP New York, NY, USA",
+      "global_code": "87G8R24P+GP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVRPaMTz2wokRm4LsaYrbHfE",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 135,
+    "vicinity": "535 West 114th Street, New York",
+    "short_description": "Historic hub of Columbia University's academic excellence.",
+    "long_description": "Butler Library, situated at 535 West 114th Street in New York, is a stunning example of neo-Classical architecture and a hub of academic excellence. As the largest and most comprehensive library at Columbia University, it boasts an impressive collection of over 2 million volumes, offering a wealth of knowledge and resources to students, faculty, and researchers. With its grand reading rooms, state-of-the-art facilities, and vast literary treasures, Butler Library is an intellectual haven that invites exploration and discovery.",
+    "image_url": "http://127.0.0.1:8000/images/Butler Library.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8071388,
+        "lng": -73.9641968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8085274802915,
+          "lng": -73.9629340197085
+        },
+        "southwest": {
+          "lat": 40.8058295197085,
+          "lng": -73.96563198029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Columbia University Bookstore",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102091681549744793145\">Hiba Akbar</a>"
+        ],
+        "photo_reference": "AVzFdbm3fbV4GBALzQJAYnW397Uh0Z917Xs-iZS33lktFBSayWETxmTeJiOFnP05Aun03u47osnj398mKTOcxvN4uOtrWHzjwomNizHUAqMZDdiCxKZPXpBtfRFU4k0_QnlkilqQK0J3tT1uxaFs0tV2klMWzxtriLqjdieOBBONpISE7QYc",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJB5Le6z72wokRzVKwisc54pQ",
+    "plus_code": {
+      "compound_code": "R24P+V8 New York, NY, USA",
+      "global_code": "87G8R24P+V8"
+    },
+    "rating": 4.5,
+    "reference": "ChIJB5Le6z72wokRzVKwisc54pQ",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1190,
+    "vicinity": "2922 Broadway, New York",
+    "short_description": "Iconic bookstore in the heart of Manhattan.",
+    "long_description": "The Columbia University Bookstore, located at 2922 Broadway in New York, is a hub for academic and literary enthusiasts, offering a vast selection of books, course materials, and university merchandise. As a central gathering place for the Columbia community, the bookstore hosts author events, book signings, and other interactive experiences that foster a love of learning and intellectual exploration. Whether you're a student, faculty member, or simply a book lover, the Columbia University Bookstore is a must-visit destination that combines intellectual curiosity with a unique shopping experience.",
+    "image_url": "http://127.0.0.1:8000/images/Columbia University Bookstore.png"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8063993,
+        "lng": -73.9632062
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8076047302915,
+          "lng": -73.9619621697085
+        },
+        "southwest": {
+          "lat": 40.8049067697085,
+          "lng": -73.9646601302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Rare Book and Manuscript Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107307737507175321092\">Shabbir Abbas (Agha)</a>"
+        ],
+        "photo_reference": "AVzFdbnjAo0C9Bj-wgOm7yfyXy72WrDliitaDy8qCiVBbXShC-IUoW_sfjdKFxaZK259mFNeFpmC4LdOQlVhJwcJo-6dRI9saewme5xH29qgVVl3ctJ8FpULbv8WpThaGG6Zgj4ScrsmTu_2NB2M1ZF99QooLKeUYudv16L0B090OwfSx9mC",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJVRPaMTz2wokRHWLQdmMQmic",
+    "plus_code": {
+      "compound_code": "R24P+HP New York, NY, USA",
+      "global_code": "87G8R24P+HP"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVRPaMTz2wokRHWLQdmMQmic",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "6th Floor East Butler Library, 535 West 114th Street, New York",
+    "short_description": "Discover rare literary treasures here.",
+    "long_description": "The Rare Book and Manuscript Library, situated on the 6th Floor East of Butler Library at Columbia University, is a treasure trove of historical and cultural artifacts, boasting over 500,000 rare books and 28 million manuscripts. This vast collection spans centuries, continents, and subjects, offering a unique window into the past and a rich resource for scholars, researchers, and curious minds. From ancient texts to modern masterpieces, the library's holdings invite exploration and discovery, making it a must-visit destination for anyone fascinated by the written word and human history.",
+    "image_url": "http://127.0.0.1:8000/images/Rare Book and Manuscript Library.png"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 40.8240478,
+        "lng": -73.9447643
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.87822003591612,
+          "lng": -73.91064591328563
+        },
+        "southwest": {
+          "lat": 40.78278392408598,
+          "lng": -73.97119006413347
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Upper Manhattan",
+    "photos": [
+      {
+        "height": 3280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108224966512462335899\">TOMMARIK EXPLORER</a>"
+        ],
+        "photo_reference": "AVzFdbnnVGt83ZbYS9pCyQ8eTr_AYhM5WtTiuiFho2LcKLjtballhmFRCEAdDSR47pmOR6pGuRQw7GMDQ9j5oNcJdTqn6VDziQ5qRBUhWnF_t9Ho-WIJMoTmcjZTGwK2TZyFj3_2TxNObgRgEgw6-_MJ_u2HWrSa6Br_3zpabqbTHsFIY_Ay",
+        "width": 1476
+      }
+    ],
+    "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+    "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+    "scope": "GOOGLE",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "vicinity": "Manhattan",
+    "short_description": "Hidden gems await in Upper Manhattan.",
+    "long_description": "Upper Manhattan, a vibrant and historic neighborhood located at the northern tip of Manhattan, offers a unique blend of cultural attractions, scenic parks, and diverse communities. From the majestic Morris-Jumel Mansion to the stunning views of the Hudson River, Upper Manhattan is a treasure trove of hidden gems waiting to be explored. With its rich history, stunning architecture, and eclectic atmosphere, Upper Manhattan is a must-visit destination for anyone looking to experience the authentic charm of New York City.",
+    "image_url": "http://127.0.0.1:8000/images/Upper Manhattan.png"
+  }
+]
