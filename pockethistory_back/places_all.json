@@ -1,0 +1,886 @@
+[
+  {
+    "geometry": {
+      "location": {
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.91770499010228,
+          "lng": -73.70016897460856
+        },
+        "southwest": {
+          "lat": 40.4765780006847,
+          "lng": -74.25884295708299
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "New York",
+    "photos": [
+      {
+        "height": 3648,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105244487082088708075\">Kris Hadis</a>"
+        ],
+        "photo_reference": "AVzFdblAUci46dRnv4M69sbG5rJWz9_bl2rRN_6Zp0wvghyT6aUGztfy1yMm1iXX1glu2Q80UGrkh3rCpD94i-FfcwafK-aT9z7OTVxCG7kzakwQ0O68wccg08DqOCwRvVxSh_UMI2Qa8S7CZLptnZWtPm_32cEw4yYno0ouB69jv9YDPqeK",
+        "width": 4864
+      }
+    ],
+    "place_id": "ChIJOwg_06VPwokRYv534QaPC8g",
+    "reference": "ChIJOwg_06VPwokRYv534QaPC8g",
+    "scope": "GOOGLE",
+    "types": [
+      "locality",
+      "political"
+    ],
+    "vicinity": "New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8068214,
+        "lng": -73.9606063
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80808048029149,
+          "lng": -73.95922516970849
+        },
+        "southwest": {
+          "lat": 40.80538251970849,
+          "lng": -73.9619231302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia Law School",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116515732993893087056\">Ali Sadighian</a>"
+        ],
+        "photo_reference": "AVzFdbkfOHdbo00B35WfXcolE1w9d40RtXbLVjBZoIRpsrKg3njWLODJZw5HaT50TovTd96qLcc71GtyYnh9YckxPpTWVoiYibumk1jQtCik4EvsvSirPS12snO_dRs7PWISQikcquZJHXikYgjsjcj_EN88PpEkhAw-vEfjjj73wHgXqTbl",
+        "width": 1944
+      }
+    ],
+    "place_id": "ChIJd1nqBj72wokRkm4dqnFmKik",
+    "plus_code": {
+      "compound_code": "R24Q+PQ New York, NY, USA",
+      "global_code": "87G8R24Q+PQ"
+    },
+    "rating": 4.2,
+    "reference": "ChIJd1nqBj72wokRkm4dqnFmKik",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108,
+    "vicinity": "435 West 116th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80785209999999,
+        "lng": -73.9609459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80909918029149,
+          "lng": -73.9593537197085
+        },
+        "southwest": {
+          "lat": 40.80640121970849,
+          "lng": -73.96205168029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "name": "St. Paul's Chapel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112046117871443935066\">Edward Chen</a>"
+        ],
+        "photo_reference": "AVzFdbn6MyIf7nP-oqJdZymMjlKkorHUmb6G5HDLP-IvrhYM2M37idiDWzrO3N__npMT-ISt0VmHYswMZJTK0Dns7o9ieUd10HocTPS8GDzR3gnbOq91qLF9dhjDOVLJjTvHfmOJ_3QtJoUO0ZHmJOfxl0CvPtC9TXZkiXqcoOOVIuwC1IAb",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJAclQPz72wokRsEnh3zDG1Bw",
+    "plus_code": {
+      "compound_code": "R25Q+4J New York, NY, USA",
+      "global_code": "87G8R25Q+4J"
+    },
+    "rating": 4.8,
+    "reference": "ChIJAclQPz72wokRsEnh3zDG1Bw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54,
+    "vicinity": "1160 Amsterdam Avenue, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077241,
+        "lng": -73.9596123
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8091605802915,
+          "lng": -73.9582356697085
+        },
+        "southwest": {
+          "lat": 40.80646261970851,
+          "lng": -73.9609336302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "School of International and Public Affairs",
+    "photos": [
+      {
+        "height": 1891,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107025321911597274986\">Gloria Oh</a>"
+        ],
+        "photo_reference": "AVzFdbkH_Vll7ZUq6agZ6a2RI9WTOkok5ma3BQG63Xh-E8c5q9j8AdfwsNwhpuheS-2ERUraFHj-JUQ_KUB1bxhrM80A2mLGTlgp1lTt5YYv1JsrtfxlnBBW5ipLPCfh2ynn6M95mWvSq8HeS-9Tsopo847_3a_-EjC0RdUl_Q4IdAeSBajk",
+        "width": 1890
+      }
+    ],
+    "place_id": "ChIJrXUAJz72wokRzQgprNpzMKA",
+    "plus_code": {
+      "compound_code": "R25R+35 New York, NY, USA",
+      "global_code": "87G8R25R+35"
+    },
+    "rating": 4.8,
+    "reference": "ChIJrXUAJz72wokRzQgprNpzMKA",
+    "scope": "GOOGLE",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "420 West 118th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077814,
+        "lng": -73.9596739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80919403029149,
+          "lng": -73.95827776970849
+        },
+        "southwest": {
+          "lat": 40.80649606970849,
+          "lng": -73.96097573029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia University Department of Economics",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJe8nWJj72wokRUqUhqrFb474",
+    "plus_code": {
+      "compound_code": "R25R+44 New York, NY, USA",
+      "global_code": "87G8R25R+44"
+    },
+    "rating": 2.7,
+    "reference": "ChIJe8nWJj72wokRUqUhqrFb474",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "420 West 118th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077432,
+        "lng": -73.95972060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80917793029149,
+          "lng": -73.9583081197085
+        },
+        "southwest": {
+          "lat": 40.80647996970849,
+          "lng": -73.96100608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Harriman Institute",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJrXUAJz72wokRcpqibIuVOR0",
+    "plus_code": {
+      "compound_code": "R25R+34 New York, NY, USA",
+      "global_code": "87G8R25R+34"
+    },
+    "rating": 5,
+    "reference": "ChIJrXUAJz72wokRcpqibIuVOR0",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "420 West 118th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077432,
+        "lng": -73.95972060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80917793029149,
+          "lng": -73.9583081197085
+        },
+        "southwest": {
+          "lat": 40.80647996970849,
+          "lng": -73.96100608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Lehman Social Sciences Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106325404903703050540\">Eugene Baik</a>"
+        ],
+        "photo_reference": "AVzFdbkDgStmdEl6qls9XQnEftb7BITyFL5_Zl71jrmZXgrZxBh73LRfyW3oENEGgTqUR-_2LedYgtU-59f1OZNr5MKxTFgdHe7LVH9Bds03EHBLO1OaGLZEtjEuyGl2wwcNdKvCUDcha3lZ7hV6-08ll79tXpE9iPpYCcY2QHXOFOh4Q9NT",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJrXUAJz72wokRDWxErC408iU",
+    "plus_code": {
+      "compound_code": "R25R+34 New York, NY, USA",
+      "global_code": "87G8R25R+34"
+    },
+    "rating": 4.4,
+    "reference": "ChIJrXUAJz72wokRDWxErC408iU",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "420 West 118th Street #328, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077432,
+        "lng": -73.95972060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80917793029149,
+          "lng": -73.9583081197085
+        },
+        "southwest": {
+          "lat": 40.80647996970849,
+          "lng": -73.96100608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Latin American Studies",
+    "place_id": "ChIJqTDfJj72wokRS3pW1kW8XwM",
+    "plus_code": {
+      "compound_code": "R25R+34 New York, NY, USA",
+      "global_code": "87G8R25R+34"
+    },
+    "reference": "ChIJqTDfJj72wokRS3pW1kW8XwM",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "420 West 118th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8067179,
+        "lng": -73.9592775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8080107302915,
+          "lng": -73.9577943697085
+        },
+        "southwest": {
+          "lat": 40.8053127697085,
+          "lng": -73.96049233029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Faculty House",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115610524523521097991\">Julio Rezende</a>"
+        ],
+        "photo_reference": "AVzFdbn0SInVh4EwA4N4fpVMfHEn5LYIGgVMFUTU9i5uAJ_SIPsuppkWWDX2kSljXkgseS0zs-w1LlKhSPxEEXbIGqiDrFL3QA4TcrdY_L7vRzAxPb4M53rO6GHkBN4iH3k5CKOWabrojnUoJcLA71PGh_G8Gl9T7rxRsxZZGRh7Pje_BjZ7",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJgyYU-hX2wokRaIL9nDXj2UA",
+    "plus_code": {
+      "compound_code": "R24R+M7 New York, NY, USA",
+      "global_code": "87G8R24R+M7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJgyYU-hX2wokRaIL9nDXj2UA",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 166,
+    "vicinity": "64 Morningside Drive, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80752270000001,
+        "lng": -73.9635079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8089513302915,
+          "lng": -73.9623959697085
+        },
+        "southwest": {
+          "lat": 40.8062533697085,
+          "lng": -73.96509393029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia University Graduate School of Journalism",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102238406716223879140\">T. Arimoto</a>"
+        ],
+        "photo_reference": "AVzFdbklKe1GRq4iQfsjJEHNaj8pNzHhqx2g-QfamNUX3N2AO55Pvp6XSFrVtEmKGuNK1jAfnXq4KDIlBXU48rPdE00paRi72Xii8ZDj2vhyDQ4yd-MjtY8zamNfe9Tap57uMIIblOAxFD9eD4sD2QLtmihJdDOUsneDnrtdbzD98ywg-Ra-",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJM-49lD72wokREgI0Ad-PuKA",
+    "plus_code": {
+      "compound_code": "R25P+2H New York, NY, USA",
+      "global_code": "87G8R25P+2H"
+    },
+    "rating": 4.3,
+    "reference": "ChIJM-49lD72wokREgI0Ad-PuKA",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Pulitzer Hall, 2950 Broadway, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8075355,
+        "lng": -73.9625727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.81273039999999,
+          "lng": -73.95871034999999
+        },
+        "southwest": {
+          "lat": 40.803606,
+          "lng": -73.96566335
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Columbia University",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107525978499005376518\">Andrew Navia</a>"
+        ],
+        "photo_reference": "AVzFdbmCr2fS8DIr56cGuQO1ZFnLzB9TmsDaCWN8NRM28UpDARQceVqDA4zCJRXDQJ5FIZbi4ArF4WVuXGgs4Kyu-9kx1oY3VfH9rXZZWTVAwo5cycE85af5zllxn5kyYoLLVg_jqjjIcisUo59Otvkao9taevhLDma4abITmEd0CtFn6M3z",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJyQ3Tlj72wokRUCflR_kzeVc",
+    "plus_code": {
+      "compound_code": "R25P+2X New York, NY, USA",
+      "global_code": "87G8R25P+2X"
+    },
+    "rating": 4.6,
+    "reference": "ChIJyQ3Tlj72wokRUCflR_kzeVc",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2464,
+    "vicinity": "116th and Broadway, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8051582,
+        "lng": -73.9627642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8064488302915,
+          "lng": -73.96145221970849
+        },
+        "southwest": {
+          "lat": 40.8037508697085,
+          "lng": -73.9641501802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Foot Health Podiatry",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ4wlJNTz2wokRWhtFHoPM7ww",
+    "plus_code": {
+      "compound_code": "R24P+3V New York, NY, USA",
+      "global_code": "87G8R24P+3V"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ4wlJNTz2wokRWhtFHoPM7ww",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "1080 Amsterdam Avenue #101, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8089292,
+        "lng": -73.9613646
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8104626302915,
+          "lng": -73.9606837697085
+        },
+        "southwest": {
+          "lat": 40.8077646697085,
+          "lng": -73.9633817302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Accounting Division at Columbia Business School",
+    "place_id": "ChIJVdYftD_2wokR4isJjc-iSgQ",
+    "plus_code": {
+      "compound_code": "R25Q+HF New York, NY, USA",
+      "global_code": "87G8R25Q+HF"
+    },
+    "reference": "ChIJVdYftD_2wokR4isJjc-iSgQ",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3022 Broadway, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8089292,
+        "lng": -73.9613646
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8104626302915,
+          "lng": -73.9606837697085
+        },
+        "southwest": {
+          "lat": 40.8077646697085,
+          "lng": -73.9633817302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Decision, Risk and Operations Division at Columbia Business School",
+    "place_id": "ChIJh95vsz_2wokRZcmFaoUuCuk",
+    "plus_code": {
+      "compound_code": "R25Q+HF New York, NY, USA",
+      "global_code": "87G8R25Q+HF"
+    },
+    "reference": "ChIJh95vsz_2wokRZcmFaoUuCuk",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "3022 Broadway, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80636260000001,
+        "lng": -73.9631912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80764703029151,
+          "lng": -73.96199696970848
+        },
+        "southwest": {
+          "lat": 40.80494906970851,
+          "lng": -73.9646949302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Butler Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3907,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110179777159398655887\">Jayne Lim</a>"
+        ],
+        "photo_reference": "AVzFdbnP-eABhDD1Cuzj-5jAwbAwWc1BzVoUne36757yJwfLAx3amiwbD_TEhsa2bWxfvz9Nq9QIAKNTvsLmVzGVokzfyti3xutur2_dOpLTwTHj-IBnAhRp3HSWkQgm80Ci96Ec_RbZFUuwBiikeVwyTZtkm0pC_eLUEV50mDWXOnoe_Fwh",
+        "width": 2930
+      }
+    ],
+    "place_id": "ChIJVRPaMTz2wokRm4LsaYrbHfE",
+    "plus_code": {
+      "compound_code": "R24P+GP New York, NY, USA",
+      "global_code": "87G8R24P+GP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVRPaMTz2wokRm4LsaYrbHfE",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 135,
+    "vicinity": "535 West 114th Street, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8071388,
+        "lng": -73.9641968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8085274802915,
+          "lng": -73.9629340197085
+        },
+        "southwest": {
+          "lat": 40.8058295197085,
+          "lng": -73.96563198029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Columbia University Bookstore",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102091681549744793145\">Hiba Akbar</a>"
+        ],
+        "photo_reference": "AVzFdblfiq6fKKeeqpury87P26Pg71378Yo1-ULmcMP6fGwUDhfoJZXp3movNhYI0TFGeYpRohTWIcQpypq4kkyqX_COcJBgVByVJvwpBu_Q36e3OUPGUaeJw78OgI2-hW1koguEMHbKvjqNSA5mZgIiPmlk5G1PjuiUy5hFDXdRRLZBA35k",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJB5Le6z72wokRzVKwisc54pQ",
+    "plus_code": {
+      "compound_code": "R24P+V8 New York, NY, USA",
+      "global_code": "87G8R24P+V8"
+    },
+    "rating": 4.5,
+    "reference": "ChIJB5Le6z72wokRzVKwisc54pQ",
+    "scope": "GOOGLE",
+    "types": [
+      "book_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1204,
+    "vicinity": "2922 Broadway, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8077432,
+        "lng": -73.95972060000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.80917793029149,
+          "lng": -73.9583081197085
+        },
+        "southwest": {
+          "lat": 40.80647996970849,
+          "lng": -73.96100608029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Weatherhead East Asian Institute",
+    "place_id": "ChIJrXUAJz72wokRIFuFIETz-MU",
+    "plus_code": {
+      "compound_code": "R25R+34 New York, NY, USA",
+      "global_code": "87G8R25R+34"
+    },
+    "rating": 3,
+    "reference": "ChIJrXUAJz72wokRIFuFIETz-MU",
+    "scope": "GOOGLE",
+    "types": [
+      "university",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "420 West 118th Street #9, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.80763080000001,
+        "lng": -73.9636318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8090491802915,
+          "lng": -73.9624466697085
+        },
+        "southwest": {
+          "lat": 40.8063512197085,
+          "lng": -73.9651446302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Fred Friendly Seminars Inc.",
+    "place_id": "ChIJyQ3Tlj72wokRqgdMQ8m_mzo",
+    "plus_code": {
+      "compound_code": "R25P+3G New York, NY, USA",
+      "global_code": "87G8R25P+3G"
+    },
+    "reference": "ChIJyQ3Tlj72wokRqgdMQ8m_mzo",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Furnald Hall, 2950 Broadway #101, New York"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.8063993,
+        "lng": -73.9632062
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.8076047302915,
+          "lng": -73.9619621697085
+        },
+        "southwest": {
+          "lat": 40.8049067697085,
+          "lng": -73.9646601302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+    "name": "Rare Book and Manuscript Library",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107307737507175321092\">Shabbir Abbas (Agha)</a>"
+        ],
+        "photo_reference": "AVzFdblmAFW4NUcp1kXeFIzdMdiGYBm3XtHvJ_5rxayWJoDiL0QWJnK9PvyTF3g7B0Tes3DjvamEw9f-zLCWuF37R5V-_JGm9SrdJp849X269Ulj4owEaqiuoh1LUqbAuT2pkuJL4MsAQQcaG3hETg4LWDrbPRUbUwUAHpE-JyqFlngPoKk9",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJVRPaMTz2wokRHWLQdmMQmic",
+    "plus_code": {
+      "compound_code": "R24P+HP New York, NY, USA",
+      "global_code": "87G8R24P+HP"
+    },
+    "rating": 4.8,
+    "reference": "ChIJVRPaMTz2wokRHWLQdmMQmic",
+    "scope": "GOOGLE",
+    "types": [
+      "library",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "6th Floor East Butler Library, 535 West 114th Street, New York"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 40.8240478,
+        "lng": -73.9447643
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.87822003591612,
+          "lng": -73.91064591328563
+        },
+        "southwest": {
+          "lat": 40.78278392408598,
+          "lng": -73.97119006413347
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Upper Manhattan",
+    "photos": [
+      {
+        "height": 3280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108224966512462335899\">TOMMARIK EXPLORER</a>"
+        ],
+        "photo_reference": "AVzFdbk2-H7NF8mLSVMkgHdmLxOwxzfJdATpTLg6sDSJ4Q4GUz7cjtgn773_mMGERTIj0I2XryBecojSG3bjhdICOV2s7C7rahtwPx9klnzl3GiT_ZkIyHjL88a2XQuiK9V_JW-_AjrM4-NsfADcHVxT1eJMDiNQSMi1W4PGkrfK9ov3jcut",
+        "width": 1476
+      }
+    ],
+    "place_id": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+    "reference": "ChIJY50xHxP2wokR7WhhDNRmgRU",
+    "scope": "GOOGLE",
+    "types": [
+      "neighborhood",
+      "political"
+    ],
+    "vicinity": "Manhattan"
+  }
+]
