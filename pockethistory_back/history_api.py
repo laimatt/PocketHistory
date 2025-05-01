@@ -108,6 +108,7 @@ def get_photo_from_reference(place, gmaps, folder_path): # folder_path as argume
                     for chunk in gmaps.places_photo(photo, max_width=1000):
                         if chunk:
                             f.write(chunk)
+                return local_filename
             except Exception as e:
                 print(f"Error saving image for {place['name']}: {e}")
 
@@ -121,7 +122,7 @@ def get_nearby_places(folder_path, gmaps, location, json_data_from_request=None)
         except json.JSONDecodeError:
             raise HTTPException(status_code=400, detail="Invalid JSON data provided.")
     else:
-        filename = r'C:\Users\laima\OneDrive\Documents\GitHub\pockethistory\places.json'
+        filename = r'C:\Users\laima\OneDrive\Documents\GitHub\PocketHistory\pockethistory_back\places.json'
         if os.path.exists(filename):
             with open(filename, 'w', encoding='utf-8') as f:
                 json.dump([], f, indent=2, ensure_ascii=False)
@@ -153,7 +154,6 @@ def get_nearby_places(folder_path, gmaps, location, json_data_from_request=None)
         else:
             os.makedirs(folder_path)
 
-
         places = gmaps.places_nearby(
             location=location,
             radius=300,
@@ -162,21 +162,23 @@ def get_nearby_places(folder_path, gmaps, location, json_data_from_request=None)
         places_list = places.get("results", [])
 
     for place in places_list:
-        location_name = place['name']
-        address = place['vicinity']
-        print(f"Name: {location_name}, Address: {address}")
+        image_path = get_photo_from_reference(place, gmaps, folder_path) # Pass folder_path
+        print(image_path, " test")
 
-        short_content_prompt = (f"give me a concise one phrase description about {location_name} located at {address} " +
-                                f"that intends to draw the user's interest. This should be no longer than 10 words.")
-        long_content_prompt = (f"give me a brief, concise summary about {location_name} located at {address} " +
-                               f"that intends to draw the user's interest. this should be no longer than 3 sentences")
-        place['short_description'] = call_groq(short_content_prompt)
-        place['long_description'] = call_groq(long_content_prompt)
+        if image_path:
 
-        append_place_to_json(place, "places.json")
+            location_name = place['name']
+            address = place['vicinity']
+            print(f"Name: {location_name}, Address: {address}")
 
-        if not json_data_from_request:
-            get_photo_from_reference(place, gmaps, folder_path) # Pass folder_path
+            short_content_prompt = (f"give me a concise one phrase description about {location_name} located at {address} " +
+                                    f"that intends to draw the user's interest. This should be no longer than 10 words.")
+            long_content_prompt = (f"give me a brief, concise summary about {location_name} located at {address} " +
+                                f"that intends to draw the user's interest. this should be no longer than 3 sentences")
+            place['short_description'] = call_groq(short_content_prompt)
+            place['long_description'] = call_groq(long_content_prompt)
+            place['image_url'] = f'http://127.0.0.1:8000/images/{image_path}'
+            append_place_to_json(place, "places.json")
 
     return places_list
 
@@ -195,7 +197,7 @@ async def nearby_places_endpoint(
         load_dotenv()
         gmaps = googlemaps.Client(key=os.getenv("GO_KEY"))
         
-        folder_path = r'C:\Users\laima\OneDrive\Documents\GitHub\pockethistory\images'  # Your image folder path
+        folder_path = r'C:\Users\laima\OneDrive\Documents\GitHub\PocketHistory\pockethistory_back\images'  # Your image folder path
         location = (latitude, longitude)
 
         if use_json_file:
@@ -215,7 +217,7 @@ async def nearby_places_endpoint(
 @app.get("/images/{filename}")
 async def get_image(filename: str):
     """Serves an image from the 'images' folder."""
-    folder_path = Path(r'C:\Users\laima\OneDrive\Documents\GitHub\pockethistory\images')
+    folder_path = Path(r'C:\Users\laima\OneDrive\Documents\GitHub\PocketHistory\pockethistory_back\images')
     file_path = folder_path / filename
 
     if not file_path.is_file():

@@ -26,7 +26,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/105244487082088708075\">Kris Hadis</a>"
         ],
-        "photo_reference": "AVzFdblAUci46dRnv4M69sbG5rJWz9_bl2rRN_6Zp0wvghyT6aUGztfy1yMm1iXX1glu2Q80UGrkh3rCpD94i-FfcwafK-aT9z7OTVxCG7kzakwQ0O68wccg08DqOCwRvVxSh_UMI2Qa8S7CZLptnZWtPm_32cEw4yYno0ouB69jv9YDPqeK",
+        "photo_reference": "AVzFdbl8fJHe043L3pbbZIItbqV_6laC8e9xQmVV25lVl6sHKW0j6hW8pbHFzW_AahF0ETBQs53dFrOT1wZKhKkOrcHTO2P6bFALstMpfdPb-VXhjJEMbbbMnXvjuOxxafgK_1B7UPqfWldIVylfim2LuvHdDgQGahFBHtm_-QB0wnBm_8HB",
         "width": 4864
       }
     ],
@@ -37,7 +37,9 @@
       "locality",
       "political"
     ],
-    "vicinity": "New York"
+    "vicinity": "New York",
+    "short_description": "City That Never Sleeps",
+    "long_description": "Located in the state of New York, New York City is a vibrant and VVVvast metropolis that offers endless possibilities for entertainment, culture, and adventure. From the bright lights of Times Square to the peaceful green oasis of Central Park, the city is a fascinating blend of iconic landmarks, world-class museums, and diverse neighborhoods. Whether you're interested in history, art, food, or entertainment, New York City has something for everyone, making it a must-visit destination that will leave you wanting more."
   },
   {
     "business_status": "OPERATIONAL",
@@ -62,7 +64,7 @@
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
     "name": "Columbia Law School",
     "opening_hours": {
-      "open_now": true
+      "open_now": false
     },
     "photos": [
       {
@@ -70,7 +72,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/116515732993893087056\">Ali Sadighian</a>"
         ],
-        "photo_reference": "AVzFdbkfOHdbo00B35WfXcolE1w9d40RtXbLVjBZoIRpsrKg3njWLODJZw5HaT50TovTd96qLcc71GtyYnh9YckxPpTWVoiYibumk1jQtCik4EvsvSirPS12snO_dRs7PWISQikcquZJHXikYgjsjcj_EN88PpEkhAw-vEfjjj73wHgXqTbl",
+        "photo_reference": "AVzFdblle94OehQ7-B2YeLD2YwcqILUaNahSocG_TxcezUpXyb2Eg-nw4PkEia8wUhAzURrAAcFjOb2T5DpTRWXbQRaRRU-GEUCNWmLhdVvbXlqxzf_-Erlzfv5OROQeJCF7hUzf_gdGwE7Sum0ji8ioWyHIQBJcUfQjupiIhm9opOiiEGY9",
         "width": 1944
       }
     ],
@@ -87,7 +89,9 @@
       "establishment"
     ],
     "user_ratings_total": 108,
-    "vicinity": "435 West 116th Street, New York"
+    "vicinity": "435 West 116th Street, New York",
+    "short_description": "Ivy League law school in Manhattan.",
+    "long_description": "Located at 435 West 116th Street in New York, Columbia Law School is a prestigious institution that offers a world-class legal education, with a rich history of academic excellence and a strong network of successful alumni. As one of the most selective law schools in the country, Columbia Law School provides students with unparalleled opportunities for intellectual growth, clinical experience, and career advancement. By attending Columbia Law School, students can tap into the vibrant legal community of New York City, gaining access to top law firms, judges, and policymakers that can help launch their careers."
   },
   {
     "business_status": "OPERATIONAL",
@@ -112,7 +116,7 @@
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
     "name": "St. Paul's Chapel",
     "opening_hours": {
-      "open_now": true
+      "open_now": false
     },
     "photos": [
       {
@@ -120,7 +124,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/112046117871443935066\">Edward Chen</a>"
         ],
-        "photo_reference": "AVzFdbn6MyIf7nP-oqJdZymMjlKkorHUmb6G5HDLP-IvrhYM2M37idiDWzrO3N__npMT-ISt0VmHYswMZJTK0Dns7o9ieUd10HocTPS8GDzR3gnbOq91qLF9dhjDOVLJjTvHfmOJ_3QtJoUO0ZHmJOfxl0CvPtC9TXZkiXqcoOOVIuwC1IAb",
+        "photo_reference": "AVzFdbmDKliOcTma9TbO2Gr1wta5whhvkSrRek8wAwhNRKh0zIop63URyuGx7xcsm7t0DxfXt1htAh8k-ZpULhkASn2Zuz1W_8eChJosDUmyLIV6d-1B4hDGB66cihcBBcVEdQueiQaiy3Cqm49uHtICv0eT_BfMlroZY_gV7ry_J8NR15QD",
         "width": 6000
       }
     ],
@@ -140,7 +144,9 @@
       "establishment"
     ],
     "user_ratings_total": 54,
-    "vicinity": "1160 Amsterdam Avenue, New York"
+    "vicinity": "1160 Amsterdam Avenue, New York",
+    "short_description": "Historic NYC chapel with stunning architecture.",
+    "long_description": "St. Paul's Chapel, located at 1160 Amsterdam Avenue in New York, is a historic Episcopal church that boasts stunning Gothic Revival architecture and a rich history dating back to 1827. This picturesque chapel, nestled in the heart of Morningside Heights, offers a serene escape from the bustling city and features beautiful stained-glass windows, intricate stone carvings, and a peaceful atmosphere. As a significant landmark and a hub for community activities, St. Paul's Chapel invites visitors to explore its tranquil interior, attend a service, or simply experience its unique blend of history, art, and spirituality."
   },
   {
     "business_status": "OPERATIONAL",
@@ -170,7 +176,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107025321911597274986\">Gloria Oh</a>"
         ],
-        "photo_reference": "AVzFdbkH_Vll7ZUq6agZ6a2RI9WTOkok5ma3BQG63Xh-E8c5q9j8AdfwsNwhpuheS-2ERUraFHj-JUQ_KUB1bxhrM80A2mLGTlgp1lTt5YYv1JsrtfxlnBBW5ipLPCfh2ynn6M95mWvSq8HeS-9Tsopo847_3a_-EjC0RdUl_Q4IdAeSBajk",
+        "photo_reference": "AVzFdbnRZ-Eq4QaMxkmZf3oYAHDLVrV72iDJeAwBcVp38eQU97KGKp65drIulgv2_i4LUN0_HFHSUaWUcXLnzPWvhdgcGut6IerY8iRI0ZNWFc6BYxWLEy_JCUXT5ZEQ7bQdFQOvI2WSgDADo0BRbXCurYKwmqtGCPLUXSSkGRs05ll2W-ux",
         "width": 1890
       }
     ],
@@ -188,7 +194,9 @@
       "establishment"
     ],
     "user_ratings_total": 13,
-    "vicinity": "420 West 118th Street, New York"
+    "vicinity": "420 West 118th Street, New York",
+    "short_description": "Global leadership training hub.",
+    "long_description": "Located at 420 West 118th Street in New York, the School of International and Public Affairs (SIPA) is a renowned institution that offers a unique blend of academic rigor and real-world experience in international relations and public policy. With a diverse range of programs and research centers, SIPA attracts students and scholars from around the world who are passionate about tackling global challenges and making a positive impact. By studying at SIPA, you'll be part of a vibrant community that is shaping the next generation of leaders in international affairs and public service."
   },
   {
     "business_status": "OPERATIONAL",
@@ -228,7 +236,9 @@
       "establishment"
     ],
     "user_ratings_total": 3,
-    "vicinity": "420 West 118th Street, New York"
+    "vicinity": "420 West 118th Street, New York",
+    "short_description": "World-class academic hub for economics innovation.",
+    "long_description": "Located at 420 West 118th Street in New York, the Columbia University Department of Economics is a world-renowned institution that has been at the forefront of economic research and education for over a century. With a faculty that includes numerous Nobel laureates and leading scholars, the department offers students a unique opportunity to engage with cutting-edge ideas and contribute to the advancement of economic knowledge. By studying at Columbia Economics, students can gain a deep understanding of the global economy and develop the skills to tackle the most pressing economic challenges of the 21st century."
   },
   {
     "business_status": "OPERATIONAL",
@@ -269,7 +279,9 @@
       "establishment"
     ],
     "user_ratings_total": 2,
-    "vicinity": "420 West 118th Street, New York"
+    "vicinity": "420 West 118th Street, New York",
+    "short_description": "Premier Russian and Eurasian studies hub.",
+    "long_description": "Located at 420 West 118th Street in New York, the Harriman Institute is a prestigious research center at Columbia University that focuses on Russian, Eurasian, and East European studies. With a rich history dating back to 1946, the institute offers a unique platform for scholars, students, and policymakers to engage in interdisciplinary research, academic programs, and public events. By exploring the complex issues and opportunities in these regions, the Harriman Institute aims to foster a deeper understanding of the cultural, economic, and political dynamics that shape our global community."
   },
   {
     "business_status": "OPERATIONAL",
@@ -302,7 +314,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/106325404903703050540\">Eugene Baik</a>"
         ],
-        "photo_reference": "AVzFdbkDgStmdEl6qls9XQnEftb7BITyFL5_Zl71jrmZXgrZxBh73LRfyW3oENEGgTqUR-_2LedYgtU-59f1OZNr5MKxTFgdHe7LVH9Bds03EHBLO1OaGLZEtjEuyGl2wwcNdKvCUDcha3lZ7hV6-08ll79tXpE9iPpYCcY2QHXOFOh4Q9NT",
+        "photo_reference": "AVzFdblgz-qUfmd9VFOGF6sSOHNulDTxYao7DSQMRLyoqcTLGmUUzPY53u3Xd9QhqFPqg8Ta6DFNG3CPrz7XttmEitb9s-HEa4SCG4dq4zA6L6IWa77E3suq_wuNxKGN-0veV-ieEC8goblu15z6Cdr9QzYjayFjYePWfUsnMNE07TNawB7d",
         "width": 3024
       }
     ],
@@ -320,7 +332,9 @@
       "establishment"
     ],
     "user_ratings_total": 13,
-    "vicinity": "420 West 118th Street #328, New York"
+    "vicinity": "420 West 118th Street #328, New York",
+    "short_description": "Discover knowledge at Lehman Library.",
+    "long_description": "The Lehman Social Sciences Library, situated at 420 West 118th Street in New York, is a vibrant hub for academic exploration and discovery. This library offers a vast collection of resources, including books, journals, and databases, catering to the research needs of students and scholars in the social sciences. By visiting the Lehman Social Sciences Library, users can unlock a wealth of knowledge and stay at the forefront of developments in fields such as economics, psychology, and sociology."
   },
   {
     "business_status": "OPERATIONAL",
@@ -355,7 +369,9 @@
       "point_of_interest",
       "establishment"
     ],
-    "vicinity": "420 West 118th Street, New York"
+    "vicinity": "420 West 118th Street, New York",
+    "short_description": "Discover vibrant Latin American cultures here.",
+    "long_description": "Located at 420 West 118th Street, New York, the Institute of Latin American Studies (ILAS) at Columbia University is a leading center for research, teaching, and outreach on Latin America, offering a rich and diverse range of academic programs and activities. By exploring the complex histories, cultures, and societies of Latin America, ILAS fosters a deeper understanding of this vibrant and dynamic region. With its unique blend of academic excellence and cultural exchange, ILAS is the perfect destination for anyone interested in discovering the excitement and diversity of Latin America."
   },
   {
     "business_status": "OPERATIONAL",
@@ -385,7 +401,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/115610524523521097991\">Julio Rezende</a>"
         ],
-        "photo_reference": "AVzFdbn0SInVh4EwA4N4fpVMfHEn5LYIGgVMFUTU9i5uAJ_SIPsuppkWWDX2kSljXkgseS0zs-w1LlKhSPxEEXbIGqiDrFL3QA4TcrdY_L7vRzAxPb4M53rO6GHkBN4iH3k5CKOWabrojnUoJcLA71PGh_G8Gl9T7rxRsxZZGRh7Pje_BjZ7",
+        "photo_reference": "AVzFdbnwxdvW-Kfok54u7NUoxhiSk2s18oL56bAzgyOf-49jfEP5luuNkp9tq95IDS_cLWni4S3EH7Im7K9m5Klgp1LsRt-QEpC9kjCMfMcYsLUZVcGGPJVcITGB87w02U5NNLpavJ_8LsYfASbPmCctG7CqXiUJEnOhATB5tVMO3oObbsi6",
         "width": 4032
       }
     ],
@@ -402,7 +418,9 @@
       "establishment"
     ],
     "user_ratings_total": 166,
-    "vicinity": "64 Morningside Drive, New York"
+    "vicinity": "64 Morningside Drive, New York",
+    "short_description": "Historic Columbia University event space.",
+    "long_description": "Located at 64 Morningside Drive in New York, Faculty House is a historic landmark that offers a unique blend of elegance and sophistication. As a premier event space and dining destination, it provides a refined atmosphere for special occasions, weddings, and corporate events, showcasing stunning views of Morningside Park. With its rich history, exquisite cuisine, and exceptional service, Faculty House is the perfect venue to create unforgettable memories in the heart of Manhattan."
   },
   {
     "business_status": "OPERATIONAL",
@@ -435,7 +453,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102238406716223879140\">T. Arimoto</a>"
         ],
-        "photo_reference": "AVzFdbklKe1GRq4iQfsjJEHNaj8pNzHhqx2g-QfamNUX3N2AO55Pvp6XSFrVtEmKGuNK1jAfnXq4KDIlBXU48rPdE00paRi72Xii8ZDj2vhyDQ4yd-MjtY8zamNfe9Tap57uMIIblOAxFD9eD4sD2QLtmihJdDOUsneDnrtdbzD98ywg-Ra-",
+        "photo_reference": "AVzFdbkxpLk5i-bnhpRyLvplAF7SwskrI8jsBae-_HdkwW5LzTIwnCMisr02-paY4NK5WO7G-HaGrpdTm8VysNelLwJbniD3eUjXNvczLJR8pBZBlbLmsXAHuO4EQb8pn_FQOb1SRV9XLkRbKyFS4mEbVoD5jChr8qnlQIZgTmGjl2kgJWQw",
         "width": 2560
       }
     ],
@@ -452,7 +470,9 @@
       "establishment"
     ],
     "user_ratings_total": 13,
-    "vicinity": "Pulitzer Hall, 2950 Broadway, New York"
+    "vicinity": "Pulitzer Hall, 2950 Broadway, New York",
+    "short_description": "Premier journalism school in New York City.",
+    "long_description": "Located in the heart of New York City, Columbia University Graduate School of Journalism is a prestigious institution that has been shaping the future of journalism since 1912. At Pulitzer Hall, students have access to state-of-the-art facilities and learn from renowned faculty and industry professionals, preparing them for successful careers in journalism and beyond. By attending Columbia Journalism School, students can tap into a rich network of alumni and gain the skills and expertise needed to tell the stories that shape our world."
   },
   {
     "business_status": "OPERATIONAL",
@@ -482,7 +502,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107525978499005376518\">Andrew Navia</a>"
         ],
-        "photo_reference": "AVzFdbmCr2fS8DIr56cGuQO1ZFnLzB9TmsDaCWN8NRM28UpDARQceVqDA4zCJRXDQJ5FIZbi4ArF4WVuXGgs4Kyu-9kx1oY3VfH9rXZZWTVAwo5cycE85af5zllxn5kyYoLLVg_jqjjIcisUo59Otvkao9taevhLDma4abITmEd0CtFn6M3z",
+        "photo_reference": "AVzFdblXX-QFf2cXtO69veNAKARtAbTXk150EbOnrWayaeG7X0QjDWAZ5asYjwzvc1hOeQQ9RqTzkuuDahq-wz4a3IgsCcsMEsU9qU665bR64pYEiQXdIIWR1CZWMW-cR8eQOYnlnMSPmPV9_L0xCt5GFbkafvBelAa9IU8jqkCH2g3kpMnr",
         "width": 4032
       }
     ],
@@ -499,8 +519,10 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 2464,
-    "vicinity": "116th and Broadway, New York"
+    "user_ratings_total": 2457,
+    "vicinity": "116th and Broadway, New York",
+    "short_description": "Ivy League education in NYC hub.",
+    "long_description": "Located at the iconic intersection of 116th and Broadway in New York City, Columbia University is one of the world's most prestigious institutions, offering a unique blend of academic excellence and urban opportunity. With a rich history dating back to 1754, Columbia is a hub for innovative research, cutting-edge scholarship, and creative expression, attracting talented individuals from around the globe. From its stunning architecture to its vibrant community, Columbia University is an exciting and inspiring place to learn, grow, and thrive."
   },
   {
     "business_status": "OPERATIONAL",
@@ -542,7 +564,9 @@
       "establishment"
     ],
     "user_ratings_total": 10,
-    "vicinity": "1080 Amsterdam Avenue #101, New York"
+    "vicinity": "1080 Amsterdam Avenue #101, New York",
+    "short_description": "Expert foot care in New York City.",
+    "long_description": "Foot Health Podiatry, located at 1080 Amsterdam Avenue #101 in New York, offers expert care for a wide range of foot and ankle conditions, providing personalized treatment to help patients achieve optimal foot health. With a team of experienced podiatrists, they utilize the latest technologies and techniques to diagnose and treat various ailments, from common issues like bunions and ingrown toenails to more complex conditions. By choosing Foot Health Podiatry, patients can expect compassionate and effective care tailored to their unique needs, helping them to regain comfort and confidence in their feet."
   },
   {
     "business_status": "OPERATIONAL",
@@ -578,7 +602,9 @@
       "point_of_interest",
       "establishment"
     ],
-    "vicinity": "3022 Broadway, New York"
+    "vicinity": "3022 Broadway, New York",
+    "short_description": "Innovative accounting hub at Columbia.",
+    "long_description": "Located at 3022 Broadway, New York, the Accounting Division at Columbia Business School is a hub for innovative research and academic excellence, offering students a comprehensive understanding of accounting principles and practices. With a faculty renowned for their expertise in areas such as financial accounting, auditing, and taxation, students gain a unique perspective on the role of accounting in business and society. By studying at Columbia Business School's Accounting Division, students can unlock career opportunities in top accounting firms, corporations, and financial institutions, and become leaders in their field."
   },
   {
     "business_status": "OPERATIONAL",
@@ -614,7 +640,9 @@
       "point_of_interest",
       "establishment"
     ],
-    "vicinity": "3022 Broadway, New York"
+    "vicinity": "3022 Broadway, New York",
+    "short_description": "Unlocking business insights through data-driven decisions.",
+    "long_description": "The Decision, Risk, and Operations Division at Columbia Business School is a hub for innovative research and learning, where faculty and students explore the intersection of data-driven decision making, risk management, and operational excellence. Located at 3022 Broadway, New York, this division offers a unique opportunity to study and apply cutting-edge methods and tools to real-world business challenges. By joining this community, you'll gain the expertise and network to drive strategic decision making and operational success in today's fast-paced and uncertain business landscape."
   },
   {
     "business_status": "OPERATIONAL",
@@ -647,7 +675,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/110179777159398655887\">Jayne Lim</a>"
         ],
-        "photo_reference": "AVzFdbnP-eABhDD1Cuzj-5jAwbAwWc1BzVoUne36757yJwfLAx3amiwbD_TEhsa2bWxfvz9Nq9QIAKNTvsLmVzGVokzfyti3xutur2_dOpLTwTHj-IBnAhRp3HSWkQgm80Ci96Ec_RbZFUuwBiikeVwyTZtkm0pC_eLUEV50mDWXOnoe_Fwh",
+        "photo_reference": "AVzFdbmX-M_ev0SFZOBog7iUB0Cf7nTG2LylwzjNmFXouwGQyJlR5yOQ7BApSpfcIeTWiYGk35INibo3t9yAbz4G1P69cavFy9Y8GNikWAKvISLa3eH-6IlGiQxpuAqrLeMVKbfxxCYcYwra3pHCEuHh13WqFRGOPVMaNjkIu9hGHMLGB0GI",
         "width": 2930
       }
     ],
@@ -665,7 +693,9 @@
       "establishment"
     ],
     "user_ratings_total": 135,
-    "vicinity": "535 West 114th Street, New York"
+    "vicinity": "535 West 114th Street, New York",
+    "short_description": "Iconic hub of Columbia University's academic excellence.",
+    "long_description": "Butler Library, situated at 535 West 114th Street in New York, is a iconic hub of academic excellence and a crown jewel of Columbia University. This stunning Beaux-Arts building boasts an impressive collection of over 2 million volumes, making it a treasure trove for scholars and book lovers alike. With its grand reading rooms, state-of-the-art facilities, and rich history, Butler Library is an must-visit destination for anyone seeking knowledge, inspiration, and a glimpse into the world of higher learning."
   },
   {
     "business_status": "OPERATIONAL",
@@ -698,7 +728,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/102091681549744793145\">Hiba Akbar</a>"
         ],
-        "photo_reference": "AVzFdblfiq6fKKeeqpury87P26Pg71378Yo1-ULmcMP6fGwUDhfoJZXp3movNhYI0TFGeYpRohTWIcQpypq4kkyqX_COcJBgVByVJvwpBu_Q36e3OUPGUaeJw78OgI2-hW1koguEMHbKvjqNSA5mZgIiPmlk5G1PjuiUy5hFDXdRRLZBA35k",
+        "photo_reference": "AVzFdblVElx7Gz_-pilTnNszd_hi2gH5KbtxHZaiDf4ywXUVT6laaaNrQVY8-Oov6HUWR9zJFXKdLpamnAYslhR5uK5V6YbQHDM8R_VHScrbVY03MyvP21XgwI7ycZhB4ARBiVDBviirQIF547i_Ybnc7qJOet1Jx6KKdvDyt5r9cDiwmEfq",
         "width": 4032
       }
     ],
@@ -712,12 +742,14 @@
     "scope": "GOOGLE",
     "types": [
       "book_store",
-      "point_of_interest",
       "store",
+      "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 1204,
-    "vicinity": "2922 Broadway, New York"
+    "user_ratings_total": 1190,
+    "vicinity": "2922 Broadway, New York",
+    "short_description": "Ivy League books and gear await.",
+    "long_description": "The Columbia University Bookstore, situated at 2922 Broadway in New York, is a hub for intellectual curiosity and academic excellence. This iconic bookstore offers a vast selection of books, apparel, and gifts, showcasing the university's rich history and spirit. Whether you're a student, alumni, or simply a book lover, the Columbia University Bookstore is a must-visit destination that promises an enriching and immersive experience."
   },
   {
     "business_status": "OPERATIONAL",
@@ -755,7 +787,9 @@
       "establishment"
     ],
     "user_ratings_total": 2,
-    "vicinity": "420 West 118th Street #9, New York"
+    "vicinity": "420 West 118th Street #9, New York",
+    "short_description": "Leading East Asian studies hub.",
+    "long_description": "The Weatherhead East Asian Institute, located at Columbia University, is a leading center for research and education on East Asia, offering a unique platform for scholars, policymakers, and professionals to engage with the region's complex issues. With a rich history and diverse programming, the institute fosters innovative research, hosts prominent speakers, and provides opportunities for academic and professional growth. By exploring the intersection of culture, politics, and economy in East Asia, the Weatherhead East Asian Institute invites individuals to delve into the region's dynamic landscape and uncover its vast possibilities."
   },
   {
     "business_status": "OPERATIONAL",
@@ -790,7 +824,9 @@
       "point_of_interest",
       "establishment"
     ],
-    "vicinity": "Furnald Hall, 2950 Broadway #101, New York"
+    "vicinity": "Furnald Hall, 2950 Broadway #101, New York",
+    "short_description": "Innovative media seminars and workshops.",
+    "long_description": "Fred Friendly Seminars Inc., located in the heart of New York City, is a renowned media organization that produces thought-provoking documentaries and interactive seminars. Founded by the legendary journalist Fred Friendly, the organization aims to foster critical thinking and civic engagement on pressing social issues. By exploring complex topics through innovative storytelling, Fred Friendly Seminars Inc. inspires audiences to navigate the complexities of the modern world and spark meaningful conversations."
   },
   {
     "business_status": "OPERATIONAL",
@@ -823,7 +859,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/107307737507175321092\">Shabbir Abbas (Agha)</a>"
         ],
-        "photo_reference": "AVzFdblmAFW4NUcp1kXeFIzdMdiGYBm3XtHvJ_5rxayWJoDiL0QWJnK9PvyTF3g7B0Tes3DjvamEw9f-zLCWuF37R5V-_JGm9SrdJp849X269Ulj4owEaqiuoh1LUqbAuT2pkuJL4MsAQQcaG3hETg4LWDrbPRUbUwUAHpE-JyqFlngPoKk9",
+        "photo_reference": "AVzFdblh4mk2dIUk_xrYSid5btij6F_pUNAJ2YxFsjdqkcvoRCpbqGIiYAu-7LrhlfoflHpEZSLw7fWab9FKn0wU65n481NASaVuoAVLzU8MXxgjSrBBvHpfJ6Nh4TE93KkyVw9pj_ZyvH5eLNz4CtGjufcfhTjIsY29DTNk4_4j8JZiRFe2",
         "width": 4608
       }
     ],
@@ -841,7 +877,9 @@
       "establishment"
     ],
     "user_ratings_total": 5,
-    "vicinity": "6th Floor East Butler Library, 535 West 114th Street, New York"
+    "vicinity": "6th Floor East Butler Library, 535 West 114th Street, New York",
+    "short_description": "Rare treasures await discovery here.",
+    "long_description": "The Rare Book and Manuscript Library, situated on the 6th Floor East of Butler Library in New York, is a treasure trove of historical and cultural significance, housing over 500,000 rare books and 28 million manuscripts. This vast collection spans centuries, featuring works from ancient civilizations to modern times, including rare editions, manuscripts, and artifacts that showcase human knowledge and creativity. By exploring this library, visitors can uncover hidden gems and delve into the past, discovering new insights and perspectives that can inspire and captivate."
   },
   {
     "geometry": {
@@ -870,7 +908,7 @@
         "html_attributions": [
           "<a href=\"https://maps.google.com/maps/contrib/108224966512462335899\">TOMMARIK EXPLORER</a>"
         ],
-        "photo_reference": "AVzFdbk2-H7NF8mLSVMkgHdmLxOwxzfJdATpTLg6sDSJ4Q4GUz7cjtgn773_mMGERTIj0I2XryBecojSG3bjhdICOV2s7C7rahtwPx9klnzl3GiT_ZkIyHjL88a2XQuiK9V_JW-_AjrM4-NsfADcHVxT1eJMDiNQSMi1W4PGkrfK9ov3jcut",
+        "photo_reference": "AVzFdbk5mrS0TCFqRbYx-yypiU0xvCzIGF4LA4AnOxZCdDyu5U0GthaHKgN7cgeGn2HO38-S0gmlBvFWMyXXjvr2IXyR_GLoVSJYWVgZ_s4hNQQ57Vm23ztqG-V_hVScZQISzkN_Qibdax-IqF88TsnjwQf8shcdQjbN9KPiNOoojLkxPkBG",
         "width": 1476
       }
     ],
@@ -881,6 +919,8 @@
       "neighborhood",
       "political"
     ],
-    "vicinity": "Manhattan"
+    "vicinity": "Manhattan",
+    "short_description": "Historic Manhattan neighborhood with rich cultural heritage.",
+    "long_description": "Upper Manhattan, located at the northern tip of Manhattan, is a vibrant and diverse neighborhood that offers a unique blend of culture, history, and natural beauty. From the iconic Cloisters museum to the scenic views of the Hudson River, Upper Manhattan is a treasure trove of hidden gems waiting to be explored. With its rich history, stunning parks, and thriving arts scene, Upper Manhattan is a must-visit destination that is sure to captivate and inspire any visitor."
   }
 ]

@@ -1,13 +1,13 @@
 "use client"
 
-import { useState, useCallback, useEffect } from "react"
-import { GoogleMap, useJsApiLoader, Marker, InfoWindow } from "@react-google-maps/api"
+import { useState, useEffect, useRef } from "react"
+import { GoogleMap, useJsApiLoader, OverlayView } from "@react-google-maps/api"
 import type { Place } from "../lib/types"
 import { getNearbyPlaces } from "../lib/api"
 import PlaceDetails from "./PlaceDetails"
 
 interface MapProps {
-  onSelectPlace: (place: Place) => void
+  onSelectPlace?: (place: Place) => void
 }
 
 const mapContainerStyle = {
@@ -15,67 +15,88 @@ const mapContainerStyle = {
   height: "100%",
 }
 
-const center = {
-  lat: 40.8075355,
-  lng: -73.9625727,
+const getDefaultCenter = (places: Place[]) => {
+  if (places.length > 0) {
+    return {
+      lat: places[0].geometry.location.lat,
+      lng: places[0].geometry.location.lng,
+    }
+  }
+  return { lat: 51.505, lng: -0.09 }
 }
 
 const options = {
-  disableDefaultUI: false,
+  disableDefaultUI: true,
   zoomControl: true,
 }
 
 export default function Map({ onSelectPlace }: MapProps) {
   const [places, setPlaces] = useState<Place[]>([])
-  const [selectedMarker, setSelectedMarker] = useState<Place | null>(null)
-  const { isLoaded } = useJsApiLoader({
+  const [center, setCenter] = useState<google.maps.LatLngLiteral>({ lat: 51.505, lng: -0.09 })
+  const [selectedPlace, setSelectedPlace] = useState<Place | null>(null)
+  const mapRef = useRef<google.maps.Map | null>(null)
+  const { isLoaded, loadError } = useJsApiLoader({
     id: "google-map-script",
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY!,
   })
 
   useEffect(() => {
-    getNearbyPlaces().then(setPlaces)
+    getNearbyPlaces().then((fetchedPlaces) => {
+      setPlaces(fetchedPlaces)
+      setCenter(getDefaultCenter(fetchedPlaces))
+    })
   }, [])
 
-  
   const handleMarkerClick = (place: Place) => {
-    setSelectedMarker(place)
     if (onSelectPlace) {
       onSelectPlace(place)
     }
   }
 
+  const onMapLoad = (map: google.maps.Map) => {
+    mapRef.current = map
+  }
+
+  if (loadError) return <div>Error loading maps</div>
   if (!isLoaded) return <div>Loading...</div>
 
   return (
     <div className="relative w-full h-screen">
-      <GoogleMap mapContainerStyle={mapContainerStyle} zoom={15} center={center} options={options}>
+      <GoogleMap mapContainerStyle={mapContainerStyle} zoom={15} center={center} options={options} onLoad={onMapLoad}>
         {places.map((place) => (
-          <Marker
+          <OverlayView
             key={place.place_id}
             position={{
               lat: place.geometry.location.lat,
               lng: place.geometry.location.lng,
             }}
-            onClick={() => handleMarkerClick(place)}
-            icon={{
-              url:
-                "data:image/svg+xml;charset=UTF-8," +
-                encodeURIComponent(`
-                <svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80">
-                  <rect width="200" height="80" rx="4" ry="4" fill="white" stroke="gray" stroke-width="1"/>
-                  <image href="${place.image_url || "/placeholder.svg"}" x="5" y="5" width="50" height="50"/>
-                  <text x="60" y="20" font-family="Arial" font-size="12" font-weight="bold">${place.name}</text>
-                  <text x="60" y="40" font-family="Arial" font-size="10" width="135">${place.short_description}</text>
-                </svg>
-              `),
-              scaledSize: new google.maps.Size(200, 80),
-              anchor: new google.maps.Point(100, 80),
-            }}
-          />
+            mapPaneName={OverlayView.OVERLAY_MOUSE_TARGET}
+          >
+            <div
+              className="bg-white border border-gray-300 rounded-lg p-2 shadow-md cursor-pointer"
+              style={{ width: "200px" }}
+              onClick={() => handleMarkerClick(place)}
+            >
+              <div className="flex items-start space-x-2">
+                <img
+                  src={place.image_url || "/placeholder.svg"}
+                  alt={place.name}
+                  className="w-12 h-12 object-cover rounded"
+                  onError={(e) => {
+                    const target = e.target as HTMLImageElement
+                    target.src = "/placeholder.svg"
+                  }}
+                />
+                <div className="flex-1 min-w-0">
+                  <h3 className="text-sm font-semibold truncate">{place.name}</h3>
+                  <p className="text-xs text-gray-600 line-clamp-2">{place.short_description}</p>
+                </div>
+              </div>
+            </div>
+          </OverlayView>
         ))}
       </GoogleMap>
-      {selectedMarker && <PlaceDetails place={selectedMarker} onClose={() => setSelectedMarker(null)} />}
+      {selectedPlace && <PlaceDetails place={selectedPlace} onClose={() => setSelectedPlace(null)} />}
     </div>
   )
 }
